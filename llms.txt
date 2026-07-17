@@ -1,0 +1,26 @@
+# amiAgentAI
+> AI Companion for Real Estate Agents — dual-engine verified
+
+## What is amiAgentAI?
+amiAgentAI is a dual-engine AI companion for real estate professionals. Two AI models (Grok + DeepSeek) cross-verify every answer — property descriptions, client communication, market insights, and compliance guidance you can trust.
+
+## Features
+- Property listing descriptions (residential, commercial, luxury, rental)
+- Client communication drafts (inquiries, follow-ups, negotiations)
+- Market insight frameworks and pricing strategy
+- Legal compliance guidance (energy certs, fair housing, GDPR)
+- Multilingual support for international transactions
+
+## Architecture
+- Dual-engine: Grok 4.5 (xAI) + DeepSeek
+- Anti-confabulation: trigram-cosine concordance >= 0.45 required
+- Stateless: messages processed in real-time, never stored
+
+## Compliance
+- EU AI Act (Reg. 2024/1689) Art. 50 — limited-risk, full transparency
+- GDPR (Reg. 2016/679) — minimal data, no message storage
+
+## Links
+- Website: https://amiagentai.com
+- API: https://amiagentai-api-production.up.railway.app
+- Contact: hello@amiagentai.com
